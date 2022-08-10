@@ -1,0 +1,10 @@
+{
+    "name": "ateeq/resume",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Ateeq",
+            "email": "ateeq.rasheed@ateeq.com"
+        }
+    ]
+}
